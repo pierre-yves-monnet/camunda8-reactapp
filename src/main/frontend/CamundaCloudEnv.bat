@@ -1,0 +1,12 @@
+rem CAMUNDA CLOUD
+setx ZEEBE_ADDRESS='4b421869-b847-44af-95b5-f9bb544276e2.bru-2.zeebe.camunda.io:443'
+set ZEEBE_CLIENT_ID='9yK0CkyGu8XgAE1j4dlQS4YWbTcpckbV'
+set ZEEBE_CLIENT_SECRET='pKMyF~j~MLrCES.JIOH4_cSDzDvMtxL7B93VaAxNA~x2vfxtQ.V.GaZUE326vmlK'
+set ZEEBE_AUTHORIZATION_SERVER_URL='https://login.cloud.camunda.io/oauth/token'
+set ZEEBE_TOKEN_AUDIENCE='zeebe.camunda.io'
+set CAMUNDA_CLUSTER_ID='4b421869-b847-44af-95b5-f9bb544276e2'
+set CAMUNDA_CLUSTER_REGION='bru-2'
+set CAMUNDA_CREDENTIALS_SCOPES='Zeebe,Tasklist,Operate'
+set CAMUNDA_TASKLIST_BASE_URL='https://bru-2.tasklist.camunda.io/4b421869-b847-44af-95b5-f9bb544276e2'
+set CAMUNDA_OPERATE_BASE_URL='https://bru-2.operate.camunda.io/4b421869-b847-44af-95b5-f9bb544276e2'
+set CAMUNDA_OAUTH_URL='https://login.cloud.camunda.io/oauth/token'
